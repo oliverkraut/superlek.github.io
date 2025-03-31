@@ -352,3 +352,10 @@ section{
   font-family: 'impact';
   text-shadow: 1px 1px 1px rgba(22,22,22)
 }
+.thetext{
+color: aliceblue;
+font-family:'impact';
+text-shadow: 0px 0px 0px rgba(255,255,255)
+text-align: right;
+left: 720px;
+  }
