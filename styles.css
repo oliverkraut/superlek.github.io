@@ -361,3 +361,8 @@ top: 800px;
 left: 560px;
   
   }
+.thetitletext{
+  postition:relative;
+  top: 800px;
+  left: 800px;
+}
