@@ -1,6 +1,7 @@
 html {
   height: 100vh;
   overflow: hidden;
+   scroll-behavior: smooth;
 }
 
 body {
