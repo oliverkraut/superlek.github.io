@@ -357,7 +357,7 @@ section{
 color: aliceblue;
 font-family:'';
 text-shadow: 0px 0px 0px rgba(255,255,255)
-postition: relative;
+postition: absolute;
 top: 80px;
 left: 70px;
   
