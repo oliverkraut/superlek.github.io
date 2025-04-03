@@ -203,7 +203,7 @@ section{
   scroll-behavior: smooth;
 }
 .card1{
-  margin:  calc(-15%);
+  margin:'';
   padding: 3em;
   width: 581.25px;
   background: #1c1f2b;
