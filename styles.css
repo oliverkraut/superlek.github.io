@@ -209,12 +209,9 @@ section{
   background: #1c1f2b;
   text-align: center;
   border-radius: 20px;
-  position: absolute;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  left: 770px;
-  top: 370px;
+  position: relative;
+
+}
   
   
   
