@@ -203,7 +203,7 @@ section{
   scroll-behavior: smooth;
 }
 .card1{
-  margin:'';
+ margin: 0 auto;
   padding: 3em;
   width: 581.25px;
   background: #1c1f2b;
@@ -235,8 +235,8 @@ section{
   top: 50%;
   left: 50%;
   translate: -50% -50%;
-  z-index: -100;
-  padding: 10px;
+  z-index: -1;
+  padding: 3px;
   border-radius: 10px;
   animation: 20s spin linear infinite;
   margin-left: auto;
