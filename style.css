@@ -840,5 +840,11 @@ hr {
     width: 99%;
   }
 }
+.pickle{
+    width: 100vh;
+    height: 100vh;
+    position: centre;
+}
+
 
 
